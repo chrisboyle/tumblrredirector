@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Tumblr Redirector</string>
+	<string name="no_url">Must be run with a Tumblr post URL</string>
+	<string name="tumblr_app_uri" translatable="false">tumblr://x-callback-url/blog?blogName=%s&amp;page=permalink&amp;postID=%s#_=_</string>
+
+</resources>
