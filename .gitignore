@@ -3,3 +3,12 @@ gen/
 obj/
 libs/*/*.so
 
+.gradle/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/datasources.ids
+.idea/libraries
+*~
+*.swp
+**/build

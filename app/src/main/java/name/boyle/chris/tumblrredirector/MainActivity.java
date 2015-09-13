@@ -1,11 +1,10 @@
 package name.boyle.chris.tumblrredirector;
 
-import android.app.*;
-import android.os.*;
-import android.content.*;
-import android.net.*;
-import java.util.regex.*;
-import android.widget.*;
+import android.app.Activity;
+import android.content.Intent;
+import android.net.Uri;
+import android.os.Bundle;
+import android.widget.Toast;
 
 public class MainActivity extends Activity
 {
